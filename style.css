@@ -1,0 +1,13 @@
+body {
+    background-color: orange;
+    color:black;
+    font-family: "chakra petvh",sans-serif;
+    margin: Opx
+}
+
+header {
+    border-bottom: solid 4px rgb(42,  122,  228);
+    padding: 20px;
+    font-size: 44px;
+    color: rgb(42,  122,  228);
+}
